@@ -1,4 +1,7 @@
 # Rootine Case Study
+
+[Link](https://www.figma.com/proto/E3QazTcsy4UpAYVzjbOOpt/Final-Project-UI%2FUX---Rootine?page-id=171%3A3273&type=design&node-id=440-2420&viewport=1038%2C445%2C0.56&t=kHsozWRZ4g7TfYDr-1&scaling=min-zoom&starting-point-node-id=440%3A2420&show-proto-sidebar=1&mode=design)
+
 <img src="./CaseStudy/1.png">
 <img src="./CaseStudy/2.png">
 <img src="./CaseStudy/3.png">
